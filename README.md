@@ -1,1 +1,1 @@
-Merhaba Ben Berkan Taşçı    Babaeski Mesleki Ve Teknik Anadolu Lisesi'nden  Web Programcılığı Bölümünden Mezun Oldum Üniversite Sınavına 3 kez girdim      ancak kazanamadım HTML CSS JAVASCRİPT Biliyorum
+Merhaba Ben Berkan Taşçı  Kırklareli  Babaeski Mesleki Ve Teknik Anadolu Lisesi'nden  Web Programcılığı Bölümünden Mezun Oldum Üniversite Sınavına 3 kez girdim      ancak kazanamadım HTML CSS JAVASCRİPT Biliyorum
